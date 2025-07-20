@@ -18,10 +18,6 @@
   <a href="https://medium.com/@adityapatil7649">
     <img height="40" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png" alt="Medium"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Instagram"/>
-  </a>
 </p>
 
 ---
