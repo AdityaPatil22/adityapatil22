@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
+--------------------------------------
+
+<h3 align="center">
   Let's Connect and have a Chat! 💬
 </h1>
 
@@ -21,7 +23,10 @@
 </a>
 </p>
 
----
+
+--------------------------------------
+
+<h3>Tools & Technologies</h3>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -50,4 +55,17 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en" alt="adityapatil22" /></p>
+--------------------------------------
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en" alt="adityapatil22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" style="margin-left: 10px;" />
+</p>
+
+--------------------------------------
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
