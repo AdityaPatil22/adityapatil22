@@ -3,7 +3,7 @@
 </p>
 
 <h3 >
-  Let's Connect and Have a Chat 💬
+  Let's Connect and Have a Chat
 </h3>
 
 <p >
@@ -66,7 +66,6 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil22&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 
 <p >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
