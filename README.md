@@ -1,12 +1,12 @@
-<p align="center">
+<p >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h3 align="center" style="font-family: 'Roboto', sans-serif;">
+<h3 >
   Let's Connect and Have a Chat 💬
 </h3>
 
-<p align="center">
+<p >
   <a href="https://aadityapatil.netlify.app/">
     <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="Portfolio"/>
   </a>
@@ -20,11 +20,10 @@
   </a>
 </p>
 
----
 
 ### Tools & Technologies
 
-<p align="center">
+<p >
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -59,18 +58,16 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
----
 
 ### GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil22&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-<p align="center">
+<p >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
