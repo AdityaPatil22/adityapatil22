@@ -58,9 +58,9 @@
 ### GitHub Stats
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en&theme=catppuccin_latte" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil22&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil22&layout=compact&theme=catppuccin_latte" alt="Top Languages" />
 </p>
 
 <p >
