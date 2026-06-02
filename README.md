@@ -53,16 +53,3 @@
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
-
-
-### GitHub Stats
-
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=adityapatil22&show_icons=true&locale=en&theme=catppuccin_latte" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapatil22&layout=compact&theme=catppuccin_latte" alt="Top Languages" />
-</p>
-
-<p >
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
